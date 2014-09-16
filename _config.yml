@@ -1,14 +1,12 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: 连胜20年
+email: love@heartace.me
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  连胜20年（1965-1985） 盛葆初 钟达胜主编 1988年8月18日 数字化：张威 2014年
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://lianshengchang.com" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  heartace
 
 # Build settings
 markdown: kramdown
